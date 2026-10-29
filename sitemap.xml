@@ -1,5 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://rshandelsvertretung.consulting/</loc></url>
-<url><loc>https://rshandelsvertretung.consulting/en/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url><loc>https://rshandelsvertretung.consulting/</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="https://rshandelsvertretung.consulting/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rshandelsvertretung.consulting/en/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rshandelsvertretung.consulting/en/"/>
+</url>
+<url><loc>https://rshandelsvertretung.consulting/en/</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="https://rshandelsvertretung.consulting/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rshandelsvertretung.consulting/en/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rshandelsvertretung.consulting/en/"/>
+</url>
+<url><loc>https://rshandelsvertretung.consulting/hersteller/</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="https://rshandelsvertretung.consulting/hersteller/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rshandelsvertretung.consulting/en/manufacturers/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rshandelsvertretung.consulting/en/manufacturers/"/>
+</url>
+<url><loc>https://rshandelsvertretung.consulting/en/manufacturers/</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="https://rshandelsvertretung.consulting/hersteller/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rshandelsvertretung.consulting/en/manufacturers/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rshandelsvertretung.consulting/en/manufacturers/"/>
+</url>
+<url><loc>https://rshandelsvertretung.consulting/einkaeufer/</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="https://rshandelsvertretung.consulting/einkaeufer/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rshandelsvertretung.consulting/en/buyers/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rshandelsvertretung.consulting/en/buyers/"/>
+</url>
+<url><loc>https://rshandelsvertretung.consulting/en/buyers/</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="https://rshandelsvertretung.consulting/einkaeufer/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rshandelsvertretung.consulting/en/buyers/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rshandelsvertretung.consulting/en/buyers/"/>
+</url>
+<url><loc>https://rshandelsvertretung.consulting/ausschreibungen/</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="https://rshandelsvertretung.consulting/ausschreibungen/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rshandelsvertretung.consulting/en/tenders/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rshandelsvertretung.consulting/en/tenders/"/>
+</url>
+<url><loc>https://rshandelsvertretung.consulting/en/tenders/</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="https://rshandelsvertretung.consulting/ausschreibungen/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rshandelsvertretung.consulting/en/tenders/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rshandelsvertretung.consulting/en/tenders/"/>
+</url>
+<url><loc>https://rshandelsvertretung.consulting/produktbereiche/</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="https://rshandelsvertretung.consulting/produktbereiche/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rshandelsvertretung.consulting/en/products/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rshandelsvertretung.consulting/en/products/"/>
+</url>
+<url><loc>https://rshandelsvertretung.consulting/en/products/</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="https://rshandelsvertretung.consulting/produktbereiche/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rshandelsvertretung.consulting/en/products/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rshandelsvertretung.consulting/en/products/"/>
+</url>
+<url><loc>https://rshandelsvertretung.consulting/ablauf/</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="https://rshandelsvertretung.consulting/ablauf/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rshandelsvertretung.consulting/en/how-we-work/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rshandelsvertretung.consulting/en/how-we-work/"/>
+</url>
+<url><loc>https://rshandelsvertretung.consulting/en/how-we-work/</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="https://rshandelsvertretung.consulting/ablauf/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rshandelsvertretung.consulting/en/how-we-work/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rshandelsvertretung.consulting/en/how-we-work/"/>
+</url>
+<url><loc>https://rshandelsvertretung.consulting/ueber-uns/</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="https://rshandelsvertretung.consulting/ueber-uns/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rshandelsvertretung.consulting/en/about/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rshandelsvertretung.consulting/en/about/"/>
+</url>
+<url><loc>https://rshandelsvertretung.consulting/en/about/</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="https://rshandelsvertretung.consulting/ueber-uns/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rshandelsvertretung.consulting/en/about/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rshandelsvertretung.consulting/en/about/"/>
+</url>
+<url><loc>https://rshandelsvertretung.consulting/kontakt/</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="https://rshandelsvertretung.consulting/kontakt/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rshandelsvertretung.consulting/en/contact/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rshandelsvertretung.consulting/en/contact/"/>
+</url>
+<url><loc>https://rshandelsvertretung.consulting/en/contact/</loc>
+  <xhtml:link rel="alternate" hreflang="de" href="https://rshandelsvertretung.consulting/kontakt/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rshandelsvertretung.consulting/en/contact/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://rshandelsvertretung.consulting/en/contact/"/>
+</url>
+<url><loc>https://rshandelsvertretung.consulting/impressum.html</loc></url>
+<url><loc>https://rshandelsvertretung.consulting/datenschutz.html</loc></url>
 </urlset>
