@@ -1,18 +1,18 @@
 # RS Handelsvertretung
 
-> Independent commercial agent (Handelsvertreter) based in Menziken, Switzerland, working worldwide on commission only.
-> Connects manufacturers with business customers and public buyers, finds checked suppliers for buyers, and helps
-> manufacturers find, check and submit offers for public and private tenders (forms, translation, questions, submission).
+> Independent commercial agent in Menziken, Switzerland (sole proprietorship of Rajinder Singh, founded 2026). Commission only, paid by the seller.
+> Two services: (1) tenders and purchase requests in Europe for manufacturers without a local office – full reading of the file, all contract costs upfront, help with forms and submission; (2) representation of selected product lines to Swiss business customers.
 
-- Owner: Rajinder Singh · Languages: German, French, English, Hindi, Punjabi · Contact: info@rshandelsvertretung.com
-- Fees: no retainer, no upfront costs; commission only when a deal is closed, paid by the seller; free for buyers.
-- Product areas: machinery and equipment, precision and metal parts, plastics technology (moulds, ultrasonic welders, film
-  lines, dosing units), electronics, medical and lab equipment, wood and furniture, packaging.
+- Contact: info@rshandelsvertretung.com · Languages: German, French, English, Hindi, Punjabi
+- Not a distributor, not a service partner, no promise of award. The manufacturer submits the bid and contracts directly.
 
 ## Pages
-- [Home (DE)](https://rshandelsvertretung.com/) · [Home (EN)](https://rshandelsvertretung.com/en/)
-- [For manufacturers](https://rshandelsvertretung.com/en/manufacturers/) · [Für Hersteller](https://rshandelsvertretung.com/hersteller/)
-- [For buyers](https://rshandelsvertretung.com/en/buyers/) · [Für Einkäufer](https://rshandelsvertretung.com/einkaeufer/)
-- [Tenders](https://rshandelsvertretung.com/en/tenders/) · [Ausschreibungen](https://rshandelsvertretung.com/ausschreibungen/)
-- [How we work](https://rshandelsvertretung.com/en/how-we-work/) · [Who we are](https://rshandelsvertretung.com/en/about/)
-- [Contact](https://rshandelsvertretung.com/en/contact/)
+- https://rshandelsvertretung.com/en/
+- https://rshandelsvertretung.com/en/manufacturers/
+- https://rshandelsvertretung.com/en/tenders/
+- https://rshandelsvertretung.com/en/buyers/
+- https://rshandelsvertretung.com/en/products/
+- https://rshandelsvertretung.com/en/how-we-work/
+- https://rshandelsvertretung.com/en/about/
+- https://rshandelsvertretung.com/en/contact/
+- https://rshandelsvertretung.com/en/fit-check/
